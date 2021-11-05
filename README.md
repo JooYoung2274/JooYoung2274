@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooYoung2274&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JooYoung2274)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JooYoung2274&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
