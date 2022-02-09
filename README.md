@@ -1,7 +1,16 @@
 
 
 
-### Hi there 👋
+### 안녕하세요. 신입 백앤드 개발자 김주영 입니다. </br>
+- 🌱 신입 백앤드 개발자 입니다. </br> 
+
+<div align=center>
+ 
+### `개인 블로그` </br>
+<a href="https://velog.io/@joo0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox" />
+</a>
+    
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FO-h-y-o&count_bg=%2310C7B3&title_bg=%23555555&icon=&icon_color=%23CD9696&title=hits&edge_flat=false)](https://github.com/O-h-y-o)  
