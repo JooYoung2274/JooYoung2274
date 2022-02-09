@@ -8,7 +8,7 @@
  
 ### `개인 블로그` </br>
 <a href="https://velog.io/@joo0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=O-h-y-o&repo=TIL&show_owner=true&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=Jooyoung blog&repo=TIL&show_owner=true&theme=gruvbox" />
 </a>
     
 
