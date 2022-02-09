@@ -3,6 +3,10 @@
 
 ### Hi there 👋
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FO-h-y-o&count_bg=%2310C7B3&title_bg=%23555555&icon=&icon_color=%23CD9696&title=hits&edge_flat=false)](https://github.com/O-h-y-o)  
+
+
 <!--
 **JooYoung2274/JooYoung2274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
