@@ -7,7 +7,11 @@
 <div align=center>
  
 ### `개인 블로그` </br>
-<a href="https://velog.io/@joo0"></a>
+<a href="https://velog.io/@joo0">
+19
+  <img align="center" src="https://velog.io/@joo0" />
+20
+</a>
     
 
 
