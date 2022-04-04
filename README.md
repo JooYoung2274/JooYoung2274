@@ -7,8 +7,8 @@
 <div align=center>
  
 ### `개인 블로그` </br>
-블로그 이전 중
-<a href="https://velog.io/@joo0">https://velog.io/@joo0
+블로그 이전 중</br> 
+<a href="https://velog.io/@joo0">https://velog.io/@joo0 </br> 
 <a href="https://joo.molmz.xyz">https://joo.molmz.xyz
 
 </a>
