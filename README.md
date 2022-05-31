@@ -6,14 +6,6 @@
 
 <div align=center>
  
-### `개인 블로그` </br>
-블로그 이전 중</br> 
-<a href="https://velog.io/@joo0">https://velog.io/@joo0 </br> 
-<a href="https://joo.molmz.xyz">https://joo.molmz.xyz
-
-</a>
-    
-
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FO-h-y-o&count_bg=%2310C7B3&title_bg=%23555555&icon=&icon_color=%23CD9696&title=hits&edge_flat=false)](https://github.com/O-h-y-o)  
 
